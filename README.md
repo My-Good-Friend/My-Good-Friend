@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yuvraj Kachroo
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently about dsa
 - 📫 How to reach me ... Linkedin- https://www.linkedin.com/in/yuvraj-kachroo-7b05282b3/
 
 
